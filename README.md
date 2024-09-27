@@ -14,23 +14,23 @@ Este notebook busca fornecer uma visão clara e detalhada sobre os fatores que c
 ### Estrutura do Notebook
 
 1. Carregamento dos Dados:
-- Importação da base de dados contendo informações sobre os clientes e suas características.
-- Verificação de dados ausentes, inconsistências e valores duplicados.
+   - Importação da base de dados contendo informações sobre os clientes e suas características.
+   - Verificação de dados ausentes, inconsistências e valores duplicados.
 
 2. Análise Exploratória (EDA):
-- Descrição estatística das variáveis.
-- Visualizações com gráficos como histograma, boxplot e gráficos de dispersão para explorar a distribuição das variáveis.
-- Análise de correlação entre as variáveis e o churn.
+   - Descrição estatística das variáveis.
+   - Visualizações com gráficos como histograma, boxplot e gráficos de dispersão para explorar a distribuição das variáveis.
+   - Análise de correlação entre as variáveis e o churn.
 
 3. Ajustes nos Dados:
-- Remoção de outliers para evitar distorções na análise.
-- Conversão de variáveis categóricas em numéricas para facilitar a modelagem.
-- Criação de variáveis ajustadas para melhorar a predição do churn.
+   - Remoção de outliers para evitar distorções na análise.
+   - Conversão de variáveis categóricas em numéricas para facilitar a modelagem.
+   - Criação de variáveis ajustadas para melhorar a predição do churn.
 
 4. Análise Gráfica e Estatística:
-- Visualizações sobre a relação entre variáveis financeiras (por exemplo, MonthlyCharges e TotalCharges) e o churn.
-- Análise de clientes com diferentes tipos de contrato (mensal, anual etc.).
-- Identificação de clientes de alto risco.
+   - Visualizações sobre a relação entre variáveis financeiras (por exemplo, MonthlyCharges e TotalCharges) e o churn.
+   - Análise de clientes com diferentes tipos de contrato (mensal, anual etc.).
+   - Identificação de clientes de alto risco.
 
 ### Principais Bibliotecas Utilizadas
 
